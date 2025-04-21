@@ -1,4 +1,6 @@
-## Compte rendu de la semaine 5 ##
+# LES CROISEMENTS AUX PASSAGES PIÈTON
+
+### Compte rendu de la Semaine 5 
 
 Cette semaine a été intense et exigeante. Nous sommes un peu en course contre la montre, parce qu’il ne nous reste qu’une semaine avant la date limite. Dès que le projet sera terminé, il faudra déjà commencer à préparer la présentation.
 
