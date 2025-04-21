@@ -2,17 +2,22 @@
 
 ![cpp](https://github.com/user-attachments/assets/67459fe5-8457-4bfc-a443-3049f7916baa)
 
-# DESCRIPTION DU PROJET
+# DESCRIPTION DU PROJET #
 L'objectif est de simuler les comportements piétonnier pour améliorer la circulation.
 
 # Membres Du Groupe:
-Simon Chen.. simon.chen@etu.sorbonne-universite.fr
 
-François Alicante.. francois_alicante@etu.sorbonne-universite.fr
+Simon Chen. 
+simon.chen@etu.sorbonne-universite.fr
 
-Qianqian Yang.. qianqian.yang@etu.sorbonne-universite.fr
+François Alicante. 
+francois_alicante@etu.sorbonne-universite.fr
 
-George Baiye.. george_kum.baiye@etu.sorbonne-universite.fr
+Qianqian Yang. 
+qianqian.yang@etu.sorbonne-universite.fr
+
+George Baiye.
+george_kum.baiye@etu.sorbonne-universite.fr
 
 ## COMPTE RENDU: ##
 
@@ -20,16 +25,16 @@ George Baiye.. george_kum.baiye@etu.sorbonne-universite.fr
 
 
 
-Semaine2.md
+[Semaine 2](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine2) 
 
-Semaine3.md
+[Semaine 3](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine3) 
 
-Semaine4.md
+[Semaine 4](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine4) 
 
-Semaine5.md
+[Semaine 5](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine5) 
 
-Semaine6.md
+[Semaine 6](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine6) 
 
-Semaine7.md
+[Semaine 7](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine7) 
 
 
