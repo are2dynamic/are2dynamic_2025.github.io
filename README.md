@@ -1,12 +1,11 @@
 # LES CROISEMENTS AUX PASSAGES PIÈTON
 
-![cpp](https://github.com/user-attachments/assets/67459fe5-8457-4bfc-a443-3049f7916baa)
+<img src="https://are2dynamic.github.io/are2dynamic_2025.github.io/cpp.jpg" width="900">
 
 # DESCRIPTION DU PROJET #
 Les passages piétons sont des points dans lesquels se rencontrent beaucoup de foules. Ces mouvements de foule qui se passent au quotidien sont pourtant paramétrés par différents facteurs. Nous allons donc tenter de les représenter dans le but de mieux comprendre les diverses interactions qui y ont lieu. Pour représenter au mieux ces comportements, nous allons faire varier différents paramètres permettant de simuler plusieurs situations. Nous allons aborder ce sujet du point de vue suivant :
 
-                                          + Comment se comporte-t-on aux passages piétons?
-                                                       
+#### Comment se comporte-t-on aux passages piétons ?                                                       
                                                        
 Avec l'objectif pour simuler les comportements piétonnier afin d'améliorer la circulation
 
@@ -38,7 +37,7 @@ Sur le terrain, les foules rencontreront :
 
 
 # Algorithmes de déplacement :
-## Biais 
+### Biais 
 Afin de simuler des comportements, nous avons implémenté un système de biais à nos agents dans le but d'ajouter des interactions non seulement entre les agents mais aussi entre les agents et leur environnement (voiture, feux tricolores) :
 
 + Direct : Il s'agit d'un comportement "normal", les agents ayant ce biais n'ont jamais de problèmes quand ils rencontrent un agent d'un autre type.
@@ -51,7 +50,7 @@ Afin de simuler des comportements, nous avons implémenté un système de biais 
 
 + Brutal : Lorsqu'un agent Brutal rencontre un autre agent Brutal, ils échangent de place et sont étourdis après leur altercation pendant un cycle.
 
-## Voiture :
+### Voiture :
 
 Les voitures sont générées en haut du passage piéton et se déplacent de 2 cases vers le bas chaque cycle. Elles sortent du terrain si leurs déplacements les mènent en dehors du terrain.
 
@@ -66,16 +65,17 @@ Toutefois, des accidents peuvent tout de même survenir, mais uniquement lors d'
 # Membres Du Groupe:
 
 #### Simon Chen. 
-+ simon.chen@etu.sorbonne-universite.fr
+simon.chen@etu.sorbonne-universite.fr
 
 #### François Alicante. 
-+ francois_alicante@etu.sorbonne-universite.fr
+francois_alicante@etu.sorbonne-universite.fr
 
 #### Qianqian Yang. 
-+ qianqian.yang@etu.sorbonne-universite.fr
+qianqian.yang@etu.sorbonne-universite.fr
 
 #### George Baiye.
-+ george_kum.baiye@etu.sorbonne-universite.fr
+george_kum.baiye@etu.sorbonne-universite.fr
+
 
 ## COMPTE RENDU: ##
 
@@ -92,3 +92,5 @@ Toutefois, des accidents peuvent tout de même survenir, mais uniquement lors d'
 [Semaine 6](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine6)
 
 [Semaine 7](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine7)
+
+
