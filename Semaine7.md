@@ -8,30 +8,17 @@ Pour enrichir notre documentation hebdomadaire, nous avons ajouté des images ai
 
 
 <style>
-  .video-wrapper {
-    position: relative;
-    padding-bottom: 56.25%; 
-    height: 0;
-    overflow: hidden;
+  .responsive-video {
+    width: 100%;
+    height: auto;
     max-width: 100%;
   }
-
-  .video-wrapper video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  
 </style>
 
-<div class="video-wrapper">
-  <video controls>
-    <source src="https://are2dynamic.github.io/are2dynamic_2025.github.io/Enregistrement%20de%20l%C3%A9cran%202025-04-21%20222401.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<video class="responsive-video" controls>
+  <source src="https://are2dynamic.github.io/are2dynamic_2025.github.io/Enregistrement%20de%20l%C3%A9cran%202025-04-21%20222401.mp4" type="video/mp4">
+</video>
+
 
 
 
