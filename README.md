@@ -23,18 +23,14 @@ george_kum.baiye@etu.sorbonne-universite.fr
 
 [Semaine 1](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine1)  
 
+[Semaine 2](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine2)
 
+[Semaine 3](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine3)
 
-[Semaine 2](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine2) 
+[Semaine 4](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine4)
 
-[Semaine 3](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine3) 
+[Semaine 5](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine5)
 
-[Semaine 4](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine4) 
+[Semaine 6](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine6)
 
-[Semaine 5](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine5) 
-
-[Semaine 6](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine6) 
-
-[Semaine 7](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine7) 
-
-
+[Semaine 7](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine7)
