@@ -11,10 +11,18 @@ Ce manque d'efficacité est devenu un problème majeur, car il ralentit la perfo
 Il ne nous reste plus que trois semaines avant la soumission du projet, alors on a décidé de réajuster notre approche. On va se concentrer sur la modélisation du comportement des piétons, notamment comment ils traversent la rue. Ce changement nous permet de simplifier les déplacements des agents et d’adapter nos fonctions existantes à ce nouveau modèle. Même si ça a demandé des ajustements rapides, on espère que ce réajustement nous permettra d’arriver à un résultat plus satisfaisant.
 
 
-<video width="640" height="360" controls>
+<style>
+  .responsive-video {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+</style>
+
+<video class="responsive-video" controls>
   <source src="https://are2dynamic.github.io/are2dynamic_2025.github.io/Enregistrement de lécran 2025-04-02 022323.mp4" type="video/mp4">
- 
+  Your browser does not support the video tag.
 </video>
 
-https://github.com/user-attachments/assets/859ae106-316a-4d66-87ed-0bd4c156a475
+
 
