@@ -6,10 +6,31 @@ Au cours de cette dernière semaine, une nouvelle fonction, upd_position, a ét�
 
 Pour enrichir notre documentation hebdomadaire, nous avons ajouté des images ainsi que des vidéos afin de fournir des visualisations claires de la simulation en action et de notre progression au fil du temps.
 
-<video width="640" height="360" controls>
-  <source src="https://are2dynamic.github.io/are2dynamic_2025.github.io/Enregistrement de lécran 2025-04-21 222401.mp4" type="video/mp4">
- 
-</video>
+<style>
+  .video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  .video-wrapper video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+<div class="video-wrapper">
+  <video controls>
+    <source src="https://are2dynamic.github.io/are2dynamic_2025.github.io/Enregistrement%20de%20l%C3%A9cran%202025-04-21%20222401.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 
 La partie technique étant désormais relativement stable, nous pouvons désormais nous concentrer sur la présentation. Le PowerPoint est presque terminé, mais il reste encore du travail : nous devons finaliser nos interventions, décider qui présente quoi, et coordonner les transitions entre les membres de l’équipe pendant la présentation. 
