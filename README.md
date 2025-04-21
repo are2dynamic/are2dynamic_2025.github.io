@@ -1,6 +1,6 @@
 # LES CROISEMENTS AUX PASSAGES PIÈTON
 
-<img src="https://are2dynamic.github.io/are2dynamic_2025.github.io/cpp.jpg" width="900">
+<img src="https://are2dynamic.github.io/are2dynamic_2025.github.io/cpp.jpg" width="1000">
 
 # DESCRIPTION DU PROJET #
 Les passages piétons sont des points dans lesquels se rencontrent beaucoup de foules. Ces mouvements de foule qui se passent au quotidien sont pourtant paramétrés par différents facteurs. Nous allons donc tenter de les représenter dans le but de mieux comprendre les diverses interactions qui y ont lieu. Pour représenter au mieux ces comportements, nous allons faire varier différents paramètres permettant de simuler plusieurs situations. Nous allons aborder ce sujet du point de vue suivant :
