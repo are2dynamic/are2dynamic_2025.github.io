@@ -4,7 +4,9 @@
 
 # DESCRIPTION DU PROJET #
 Les passages piétons sont des points dans lesquels se rencontrent beaucoup de foules. Ces mouvements de foule qui se passent au quotidien sont pourtant paramétrés par différents facteurs. Nous allons donc tenter de les représenter dans le but de mieux comprendre les diverses interactions qui y ont lieu. Pour représenter au mieux ces comportements, nous allons faire varier différents paramètres permettant de simuler plusieurs situations. Nous allons aborder ce sujet du point de vue suivant :
-                                                       Comment se comporte-t-on aux passages piétons?
+
+                                          + Comment se comporte-t-on aux passages piétons?
+                                                       
                                                        
 Avec l'objectif pour simuler les comportements piétonnier afin d'améliorer la circulation
 
@@ -63,17 +65,17 @@ Toutefois, des accidents peuvent tout de même survenir, mais uniquement lors d'
 
 # Membres Du Groupe:
 
-Simon Chen. 
-simon.chen@etu.sorbonne-universite.fr
+#### Simon Chen. 
++ simon.chen@etu.sorbonne-universite.fr
 
-François Alicante. 
-francois_alicante@etu.sorbonne-universite.fr
+#### François Alicante. 
++ francois_alicante@etu.sorbonne-universite.fr
 
-Qianqian Yang. 
-qianqian.yang@etu.sorbonne-universite.fr
+#### Qianqian Yang. 
++ qianqian.yang@etu.sorbonne-universite.fr
 
-George Baiye.
-george_kum.baiye@etu.sorbonne-universite.fr
+#### George Baiye.
++ george_kum.baiye@etu.sorbonne-universite.fr
 
 ## COMPTE RENDU: ##
 
