@@ -6,10 +6,11 @@ Au cours de cette dernière semaine, une nouvelle fonction, upd_position, a ét�
 
 Pour enrichir notre documentation hebdomadaire, nous avons ajouté des images ainsi que des vidéos afin de fournir des visualisations claires de la simulation en action et de notre progression au fil du temps.
 
+
 <style>
   .video-wrapper {
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    padding-bottom: 56.25%; 
     height: 0;
     overflow: hidden;
     max-width: 100%;
@@ -22,6 +23,7 @@ Pour enrichir notre documentation hebdomadaire, nous avons ajouté des images ai
     width: 100%;
     height: 100%;
   }
+  
 </style>
 
 <div class="video-wrapper">
