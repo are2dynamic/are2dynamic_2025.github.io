@@ -1,4 +1,6 @@
-# Compte rendu de la semaine 1
+# LES CROISEMENTS AUX PASSAGES PIÈTON
+
+### Compte rendu de la Semaine 1
 
 Bonjour à tous et bienvenue dans notre exploration du monde de la modélisation des mouvements de foule. Aujourd'hui c'est le début de ce projet "la dynamique des déplacements des foules ". Il s'agit d'une tâche complexe nécessitant la prise en compte de divers facteurs : la densité de la foule, le comportement des individus et l’aménagement de l’environnement.
 
