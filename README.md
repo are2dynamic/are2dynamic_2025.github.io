@@ -16,7 +16,8 @@ George Baiye.. george_kum.baiye@etu.sorbonne-universite.fr
 
 # COMPTE RENDU:
 
-Semaine1.md
+[Semaine 1](https://github.com/user-attachments/files/19834629/Semaine1.md)
+
 
 Semaine2.md
 
