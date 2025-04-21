@@ -1,4 +1,6 @@
-## Compte rendu de la semaine 3 ##
+# LES CROISEMENTS AUX PASSAGES PIÈTON
+
+### Compte rendu de la Semaine 3 
 
 L’objectif principal du projet est d’assurer que les agents naviguent dans l’environnement pour atteindre un point d’arrivée désigné. Pour cela, nous avons développé plusieurs fonctions, basées sur les résultats des étapes précédentes.
 
