@@ -1,4 +1,6 @@
-## Compte rendu de la semaine 4 ##
+# LES CROISEMENTS AUX PASSAGES PIÈTON
+
+### Compte rendu de la semaine 4 
 
 Nous avons enfin réussi à mettre en place une fonction deplacement fonctionnelle. Nous avons également développé la fonction cycle, qui permet d'exécuter plusieurs déplacements des agents, ainsi qu'une fonction simulation pour visualiser l’évolution en temps réel.
 
