@@ -5,4 +5,4 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 title: [LES CROISEMENTS AUX PASSAGES PIÈTONS]
-description: [Modélisation des Mouvement Piétons]
+description: [LES CROISEMENTS AUX PASSAGES PIÈTONS]
