@@ -2,7 +2,7 @@
 
 ### Compte rendu de la Semaine 7
 
-Au cours de cette dernière semaine, une nouvelle fonction, upd_position, a été créer pour gérer la mise à jour des positions des agents après chaque cycle de mouvement. La fonction de biais a également été retravaillée et plusieurs problèmes ont été résolus, finalement on a une version apparemment stable et fonctionnelle. Cela nous permet de commencer à expérimenter avec différents paramètres afin d'observer les déplacements des agents vers leurs points d’arrivée respectifs et d’en tirer des conclusions.
+Au cours de cette dernière semaine, une nouvelle fonction, upd_position, a été créer pour gérer la mise à jour des positions des agents après chaque cycle de mouvement. La fonction de biais a également été retravaillée et plusieurs problèmes ont été résolus, finalement on a une version apparemment stable et fonctionnelle même si nous avons encore des problèmes avec les déplacements des véhicules. Cela nous permet de commencer à expérimenter avec différents paramètres afin d'observer les déplacements des agents vers leurs points d’arrivée respectifs et d’en tirer des conclusions tout en essayant encore de trouver une solution au problème de déplacement des véhicules.
 
 Pour enrichir notre documentation hebdomadaire, nous avons ajouté des images ainsi que des vidéos afin de fournir des visualisations claires de la simulation en action et de notre progression au fil du temps.
 
