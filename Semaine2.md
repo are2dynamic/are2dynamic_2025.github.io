@@ -8,5 +8,5 @@ Nous avons commencé notre projet en développant des fonctions clés. Par exemp
 
 Jusqu’ici, nous avons déjà pu visualiser l’environnement en temps réel grâce à la fonction show_env utilisant Tkinter. Cette représentation visuelle est précieuse, car elle nous permet d’évaluer facilement la configuration et d’y apporter des ajustements si nécessaire. Personnellement, je pense que nous avançons bien et à un bon rythme. Nous sommes confiants dans le fait que nous pourrons bien progresser dans les semaines à venir.
 
-![Capture d'écran 2025-03-12 075722](https://github.com/user-attachments/assets/89dbc828-aa40-4bbd-a0f7-3b4fe22c9832)
+<img src="https://are2dynamic.github.io/are2dynamic_2025.github.io/Capture d'écran 2025-03-12 075722.png">
 
