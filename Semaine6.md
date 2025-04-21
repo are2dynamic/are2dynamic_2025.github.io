@@ -1,4 +1,6 @@
-## Compte rendu de la semaine 6 ##
+# LES CROISEMENTS AUX PASSAGES PIÈTON
+
+### Compte rendu de la semaine 6 
 
 Dans notre dernière mise à jour, nous avons ajouté plusieurs nouvelles fonctions pour améliorer le fonctionnement et les performances de notre modèle. Voici les principales :
 
