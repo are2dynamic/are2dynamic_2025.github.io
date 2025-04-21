@@ -14,9 +14,9 @@ Qianqian Yang.. qianqian.yang@etu.sorbonne-universite.fr
 
 George Baiye.. george_kum.baiye@etu.sorbonne-universite.fr
 
-# COMPTE RENDU:
+## COMPTE RENDU: ##
 
-<a href = "https://github.com/user-attachments/files/19834629/Semaine1.md">Semaine_1</a>
+[Semaine 1](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine1)  
 
 
 
