@@ -6,6 +6,12 @@ Au cours de cette dernière semaine, une nouvelle fonction, upd_position, a ét�
 
 Pour enrichir notre documentation hebdomadaire, nous avons ajouté des images ainsi que des vidéos afin de fournir des visualisations claires de la simulation en action et de notre progression au fil du temps.
 
+<video width="640" height="360" controls>
+  <source src="https://are2dynamic.github.io/are2dynamic_2025.github.io/Enregistrement de lécran 2025-04-21 222401.mp4" type="video/mp4">
+ 
+</video>
+
+
 La partie technique étant désormais relativement stable, nous pouvons désormais nous concentrer sur la présentation. Le PowerPoint est presque terminé, mais il reste encore du travail : nous devons finaliser nos interventions, décider qui présente quoi, et coordonner les transitions entre les membres de l’équipe pendant la présentation. 
 
 Aujourd’hui est peut-être la dernière fois que nous publions un résumé hebdomadaire du travail accompli et des tâches à venir. Dans ce cas, cela a été un plaisir de partager chaque semaine l’avancement de notre projet.
