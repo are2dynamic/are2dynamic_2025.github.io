@@ -21,7 +21,7 @@ george_kum.baiye@etu.sorbonne-universite.fr
 
 ## COMPTE RENDU: ##
 
-[Semaine 1](https://are2dynamic_2025.github.io/LESCROISEMENTSAUXPASSAGESPIÈTONS/Semaine1)  
+[Semaine 1](https://are2dynamic.github.io/are2dynamic_2025.github.io/Semaine1)  
 
 
 
