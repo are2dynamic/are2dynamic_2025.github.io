@@ -24,6 +24,6 @@ C’est une nouvelle fonction que nous avons créée pour gérer les déplacemen
 #### position_agents est maintenant devenue *position_type. Elle a été modifiée pour renvoyer la position des agents en fonction de leur type (véhicule, piéton…).
 
 #### deplacement:
-Cette fonction, qui gère les déplacements de manière générale, a été profondément modifiée pour intégrer la nouvelle logique. Mais on rencontre encore un problème : les piétons d’un côté de la simulation ne bougent pas comme prévu. C’est le gros défi qu’il nous reste à résoudre avant la fin.
+le fonction, qui gère les déplacements de manière générale, a été modifiée pour intégrer la nouvelle logique. Mais on rencontre encore un problème : les piétons d’un côté de la simulation ne bougent pas comme prévu. C’est encore un défi qu’il nous reste à résoudre avant la fin.
 
 Enfin, les fonctions cycle et simulation ont été ajustées afin que l’ensemble du système fonctionne bien avec les nouvelles fonctions et variables mises en place. Nous sommes proches de la fin du projet, mais tant que le problème de déplacement des piétons n’est pas résolu, il reste un point critique. On espère y arriver cette semaine pour pouvoir tout boucler dans les temps !
