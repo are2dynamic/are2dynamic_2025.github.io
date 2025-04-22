@@ -1,6 +1,6 @@
 # LES CROISEMENTS AUX PASSAGES PIÈTON
 
-## Compte rendu de la Semaine 2
+### Compte rendu de la Semaine 2
 
 Grâce aux compétences de nos membres d’équipe François, Simon et Qianqian, nous avons pu démarré rapidement les premières étapes de la modélisation.
 
